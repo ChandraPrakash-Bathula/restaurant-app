@@ -1,2 +1,2 @@
 # Restaurant App
-This is a react.js based application.
+This is a react.js based front-end application.
